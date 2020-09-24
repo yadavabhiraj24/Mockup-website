@@ -1,0 +1,205 @@
+body{
+			background-color: rgba(224,224,224,1);
+			margin: 0.5%;
+	}
+		
+nav{			
+			
+		text-align: center;
+
+	}
+.sec1{
+		height: 100vh;
+		background-color: rgba(39,49,54,1);
+		width:7%;
+		display: inline-block;
+		float: left;
+	}
+
+nav figcaption{
+		color:white;
+		font-size: 75%;
+    	}
+img{
+		margin:0 auto;
+	}
+a{
+	text-decoration: none;
+	display: block;
+	}
+#i2{
+	border-radius: 50%;
+	width: 20%;
+	margin: 0 auto;
+	}
+#i1{
+	width: 40%;
+	margin:0 auto;
+
+	}
+#mon{
+	border-bottom: 1px solid white;
+	}
+	nav a{
+		padding: 8%
+		}
+.sec1 .active{
+		background-color: rgba(120,144,156,1);
+		}
+.sec2{
+  display:inline-block;
+  float: left;
+  margin-left:1%;
+  background-color: white;
+  margin-top: 1%;
+  
+}
+th,td{
+  width:50%;
+  border:1px solid lightgrey;
+  padding: 5%;
+  padding-bottom: 0%;
+  padding-top: 3%;
+}
+th{
+  background-color:lightgrey;
+  font-size: 65%;
+  padding-bottom: 2%;
+}
+		
+table .active{
+			background-color: lightblue;
+		}
+table p{
+			font-size: 65%;
+		}
+
+.bigsec{
+	display: inline-block;
+	width: 70%;
+	margin-left: 1%;
+	border:1px solid lightgrey;
+	padding: 1%;
+	float: left;
+	background-color: white;
+	margin-top: 1%;
+}
+.smsec{
+	float: left;
+	width: 32%;
+	height: 100px;
+	border:1px solid lightgrey;
+	padding: 1%;
+	margin-bottom: 5px;
+
+
+
+}
+.smsec h4{
+	display: inline-block;
+}
+.smsec p{
+	font-size: 70%;
+}
+.lastsec{
+	float: left;
+	border:1px solid blue;
+	border-style: dotted;
+	width: 32%;
+	height: 100px;
+	padding: 2%;
+	text-align: center;
+}
+#d1,#d2,#d4,#d5{
+	margin-left: 5px;
+}
+.im1{
+	float: right;
+}
+.top{
+	display: inline-block;
+	width: 89vw;
+	margin-bottom: 0%;
+	background-color: white;
+	padding: 0.45%;
+
+}
+
+#s4{
+	border-radius: 50%;
+	width: 6%;
+	float: right;
+	}
+.pro{
+	float: right;
+  margin-right:0%;
+    
+    
+}
+.pro input{
+	float:right;
+	width:25%;
+}
+#in1{
+	width:15%;
+	border-right: 1px solid;
+}
+
+    
+
+#in2{
+  width:34%;
+}
+.top input{
+	border-style: none;
+}
+.top button{
+	border-style: none;
+	background-color: white;
+	width:8%;
+	position: relative;
+	float: right;
+	margin-right: 13%;
+	display: inline-block;
+}
+#s3{
+	display: inline-block;
+	position: relative;
+	float: right;
+	
+}
+.nav1{
+	display: inline-block;
+	width: 89vw;
+	border: 1px solid lightgrey;
+}
+ul li{
+	display: inline-block;
+	list-style-type: none;
+	float: left;
+	margin-left: 2%;
+
+}
+#l1{
+	margin-left: 0%;
+}
+.nav1 .active{
+	border-bottom: 3px solid blue;
+}
+li a{
+	text-decoration: none;
+	color: black;
+}
+.nav1{
+	padding: .1%;
+}
+#down{
+	width: 3%;
+	float: right;
+	text-align: center;
+	padding-top: .9%;
+	margin-right: 2%;
+	position: relative;
+
+
+}
